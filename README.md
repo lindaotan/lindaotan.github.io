@@ -1,2 +1,2 @@
-# lindaotan.io
+# lindaotan.github.io
 day day up
