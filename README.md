@@ -1,3 +1,2 @@
 # lindaotan.github.io
-<lindaotan.github.io>
-day day up
+静态网页地址https://lindaotan.github.io/
